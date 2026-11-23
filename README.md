@@ -62,7 +62,7 @@ One button runs everything. There are no settings you have to understand first.
 You need Node.js 22.13 or newer (the CLI isolates the decoder with Node's permission model).
 
 ```bash
-git clone https://github.com/LLCForge/Peel-PS.git
+git clone https://github.com/ForgeLLC/Peel-PS.git
 cd Peel-PS
 npm install
 npm run dev
@@ -283,7 +283,7 @@ Exit codes: `0` ok, `1` error, `2` usage error, `4` `--fail-on` threshold reache
 ## Library
 
 ```bash
-npm install github:LLCForge/Peel-PS
+npm install github:ForgeLLC/Peel-PS
 ```
 
 ```js

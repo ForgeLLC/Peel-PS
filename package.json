@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LLCForge/Peel-PS.git"
+    "url": "git+https://github.com/ForgeLLC/Peel-PS.git"
   },
-  "homepage": "https://github.com/LLCForge/Peel-PS#readme",
+  "homepage": "https://github.com/ForgeLLC/Peel-PS#readme",
   "keywords": [
     "deobfuscator",
     "powershell",

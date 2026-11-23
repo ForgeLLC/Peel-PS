@@ -63,7 +63,7 @@ Her şeyi tek düğme çalıştırır. Önce anlamanız gereken bir ayar yok.
 Node.js 22.13 ya da daha yenisi gerekir (CLI, çözücüyü Node'un izin modeliyle yalıtır).
 
 ```bash
-git clone https://github.com/LLCForge/Peel-PS.git
+git clone https://github.com/ForgeLLC/Peel-PS.git
 cd Peel-PS
 npm install
 npm run dev
@@ -280,7 +280,7 @@ ikili) dosyalar bayt bayt, çözülen kod UTF-8 olarak yazılır.
 ## Kütüphane
 
 ```bash
-npm install github:LLCForge/Peel-PS
+npm install github:ForgeLLC/Peel-PS
 ```
 
 ```js
